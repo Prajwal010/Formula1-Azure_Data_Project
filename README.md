@@ -12,8 +12,11 @@ Overview of project : Data engineering project from ingestion to Analysis using 
 8) Data is analysed using sql/ python and visualize in Integrated Bi tool.
 9) Azure datafactory is used to create pipeline using databricks activity.
 10) pipeline is applied with tumbing window trigger.
+    
+------------------------------------------------------------------------------------------------------------------------------------------
+## Architecture Diagram
 
 
-
+![Architecture diagram](https://github.com/Prajwal010/Formula1-Azure_Data_Project/assets/91496751/716d2d4b-e419-459e-a6f4-9f9dd8248071)
 
 
