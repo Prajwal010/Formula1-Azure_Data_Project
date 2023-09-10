@@ -17,6 +17,7 @@ Overview of project : Data engineering project from ingestion to Analysis using 
 ## Architecture Diagram
 
 
-![Architecture diagram](https://github.com/Prajwal010/Formula1-Azure_Data_Project/assets/91496751/716d2d4b-e419-459e-a6f4-9f9dd8248071)
+![Architecture diagram](https://github.com/Prajwal010/Formula1-Azure_Data_Project/assets/91496751/104431da-9fc2-4ba0-8d90-35adcc0a0d5e)
+
 
 
